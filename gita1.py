@@ -1,3 +1,4 @@
-print("git is live");
+print("git is hero");
 print("Git is cool");
-print('Ravi is is good boy and saugat is fucking ashole')
+print('Ravi is Gay')
+
